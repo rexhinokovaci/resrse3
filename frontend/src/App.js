@@ -8,18 +8,18 @@ import makeschool from "./makeschool.png"
 const App = () => {
   return (
     <div>
-      <h1>Hello, World and Make School! React+Django to Heroku</h1>
+      <h1>This is how the lead generation would work</h1>
       <img src={logo} className="testing" alt="Logo" />
       <br></br>
       <hr></hr>
-      <h2>Test Image</h2>
+      <h2>Someone who is winning money photo</h2>
       <img src={makeschool} alt="TEST image" />
       <hr></hr>
       <h2>Test Bootstrap Buttons</h2>
-      <Button bsStyle="primary">Primary</Button>{' '}
-      <Button type="button" class="btn btn-primary">Secondary</Button>{' '}
-      <Button variant="success">Success</Button>{' '}
-      <Button variant="warning">Warning</Button>{' '}
+      <Button bsStyle="primary">First name</Button>{' '}
+      <Button type="button" class="btn btn-primary">Last name</Button>{' '}
+      <Button variant="success">Send Data</Button>{' '}
+      <Button variant="warning">Send Data</Button>{' '}
 
       <button type="button" class="btn btn-primary">Primary BootStrap</button>
 <button type="button" class="btn btn-secondary">Secondary Bootstap</button>
