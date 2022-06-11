@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import test from "./test.png";
 import { Button } from 'react-bootstrap'
 import makeschool from "./makeschool.png"
+import formulas 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 
 
